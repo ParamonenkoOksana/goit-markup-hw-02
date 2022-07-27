@@ -227,10 +227,6 @@ body {
   color: var(--text-color-white);
 }
 
-.footer-logo:hover {
-  color: var(--accent-color);
-}
-
 .footer-list .aside {
   font-size: 14px;
   line-height: 1.71;
